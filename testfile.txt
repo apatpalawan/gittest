@@ -1,0 +1,7 @@
+Test file slide 43 git flow
+
+This is test merge slide 56 text for feature
+
+Merge is done above
+
+No conflict number 1
